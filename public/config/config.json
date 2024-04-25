@@ -1,0 +1,18 @@
+{
+    "development": {
+        "backend_port": 5000,
+        "backend_domain": "http://localhost"
+    
+       
+    },
+    "test": {
+        "backend_port": 7275,
+        "backend_domain": "http://localhost"
+       
+    },
+    "production": {
+        "backend_port": "",
+        "backend_domain": "http://173.248.136.225/backend"
+       
+    }
+}
